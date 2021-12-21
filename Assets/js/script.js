@@ -69,6 +69,5 @@ function generatePassword() {
     passwordArray.push(randomChoice); 
   };
 
-  return (passwordArray.join(''));
-  
+  return (passwordArray.join(''));  
 }
